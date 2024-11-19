@@ -1,0 +1,18 @@
+Backups fullbackup, incrementbackup, tlogs
+file restriction 
+index rebuilding 
+capacity management
+capacity report-
+SLA report by executing packages, used to export the data, import to another table,
+ truncate tables
+health check report daily and cluster validation check
+for any changes we used to raise CRs
+patching the sql server and supporting to other windows patching team
+write sql scripts
+monitoring work
+installing the sql server for new servers for standalone and clustered one
+performance counter
+library closing activity 
+
+
+
